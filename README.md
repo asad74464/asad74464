@@ -2,7 +2,7 @@
 <h2>Assadullah Hussaini</h2>
 <h3>Web Developer</h3>
 
-<h4 align="">Contact Info</h4>
+
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:assad.hossaini@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/assadullah-hussaini-5405a8177/)
 
