@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h2>My name is Assadullah Hussaini</h2>
+<h2>Assadullah Hussaini</h2>
 <h3>Web Developer</h3>
 
 
