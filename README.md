@@ -8,7 +8,7 @@
 
 <h4 align="">Skills</h4>
 <p>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,reactnative,nextjs,java,spring,postgres,docker,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,java,spring,postgres,docker,git" />
 </p>
 
 <!--
