@@ -9,6 +9,7 @@
 <h4 align="">Skills</h4>
 <p>
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,java,spring,postgres,docker,git" />
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 <!--
